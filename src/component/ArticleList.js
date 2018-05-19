@@ -1,5 +1,5 @@
 import React from 'react';
-var data = require('../data.json')
+import data from '../data.json';
 
 export default function ArticleList() {
 
