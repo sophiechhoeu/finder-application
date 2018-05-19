@@ -6,6 +6,6 @@
 - npm start
 
 - used reactstrap
-- includes repsonsiveness
-- added routes 
+- includes responsiveness
+- added routes
 - added quote api [Random quotes api](https://talaikis.com/api/quotes/random/)
