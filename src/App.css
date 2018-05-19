@@ -1,0 +1,109 @@
+/* media queries */
+
+@media (min-width:992px){
+ .col-lg-8 {
+   max-width: 60%;
+ }
+ .col-lg-4 {
+  margin-left: 20px;
+  margin-right: auto;
+  flex: 1;
+  max-width: 100%;
+ }
+}
+
+/* App */
+
+.App {
+  height:auto;
+  width: 100%;
+  margin-bottom: 10px;
+}
+
+body {
+  background-color: #D3D3D3;
+  margin-top: 10px;
+  margin-left: 20px;
+  margin-bottom: 10px;
+  margin-right: 20px !important;
+}
+
+/* header */
+
+.header {
+  background-color: #3a8fff;
+  padding: 30px 30px;
+  border-bottom: solid 10px black;
+  width: 100%;
+}
+
+.header-name{
+  text-align: center;
+  font-weight: bold;
+  color: white;
+}
+
+/* Nav */
+
+.Nav {
+  background-color: white;
+  padding: 10px 30px;
+  margin-bottom: 10px;
+  width:100%;
+}
+
+.nav-link:hover {
+  background-color: #1B304C;
+  color:white;
+}
+
+/* HomePage */
+
+/* articlefeed */
+.article-header {
+  font-size: 25px;
+  margin: 15px 0px;
+  font-weight: bold;
+  color: #007bff;
+}
+
+.article-feed {
+  background-color: white;
+  height:auto;
+  width:100%;
+}
+
+/* the week col */
+
+.the-week {
+  width:100%;
+  background-color: white;
+  height: auto;
+  padding-bottom: 20px;
+}
+
+.css-img{
+  width: 100%;
+}
+
+.img-button {
+  margin-top: 10px;
+}
+
+.week-header  {
+  font-weight: bold;
+  font-size: 20px;
+  margin: 15px 0px;
+  color: #007bff;
+}
+
+/* Quote of the week */
+.blockquote {
+  border-left: 10px solid #1B304C;
+  padding: 5px 10px;
+}
+
+.quote-author {
+  font-size: 15px;
+  font-style: italic;
+}
