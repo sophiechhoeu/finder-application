@@ -9,3 +9,4 @@
 - includes responsiveness
 - added routes
 - added quote api [Random quotes api](https://talaikis.com/api/quotes/random/)
+- live link on heroku [here](https://finder-layout.herokuapp.com/)
